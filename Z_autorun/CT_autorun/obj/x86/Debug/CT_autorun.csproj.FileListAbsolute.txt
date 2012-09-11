@@ -1,0 +1,10 @@
+D:\autorun\CT_autorun\CT_autorun\bin\Debug\CT_autorun.exe
+D:\autorun\CT_autorun\CT_autorun\bin\Debug\CT_autorun.pdb
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\CT_autorun.Main.resources
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\CT_autorun.Properties.Resources.resources
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\CT_autorun.exe
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\CT_autorun.pdb
+D:\autorun\CT_autorun\CT_autorun\obj\x86\Debug\CT_autorun.about.resources
